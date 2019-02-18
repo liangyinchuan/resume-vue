@@ -121,7 +121,7 @@ html{
 * 学历:大专
 * 性别:男
 * 年龄:29
-* E-mail:liangyinchuan@126.com
+* E-mail:[liangyinchuan@126.com](Mailto:liangyinchuan@126.com)
 
 资深PHP后端开发工程师，现任职于 [新浪海外分期](https://www.leadingwhale.com) 做PHP开发。
 
