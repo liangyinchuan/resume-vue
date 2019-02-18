@@ -2,13 +2,13 @@
 
 > This is my resume
 
-[预览](https://jirengu-inc.github.io/animating-resume/public/)
+<!-- [预览](https://jirengu-inc.github.io/animating-resume/public/) -->
 
 ## 使用方法
 
 ``` bash
-git clone git@github.com:jirengu-inc/animating-resume.git
-cd animating-resume
+git clone https://github.com/liangyinchuan/resume-vue.git
+cd resume-vue
 npm install
 npm run dev
 ```
@@ -26,5 +26,4 @@ npm run dev
     git push
     ```
 
-3. 开启 GitHub Pages 功能
 
